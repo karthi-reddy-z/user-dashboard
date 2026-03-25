@@ -74,7 +74,7 @@ npm start
 
 ## 🌍 Live Demo
 
-👉 https://your-deployment-link.vercel.app
+👉 https://user-dashboard-eight-gamma.vercel.app/
 
 ---
 
@@ -83,8 +83,11 @@ npm start
 * Dashboard Page
 * User Detail Page
 
-(Add screenshots here if needed)
+## 📸 Screenshots
 
+<img src="https://img.sanishtech.com/u/5849dab60ca90b0e38c2c25a9a7bec59.png" alt="Screenshot 2026-03-25 164145" loading="lazy" style="max-width:100%;height:auto;">
+
+<img src="https://img.sanishtech.com/u/14287dc2dab16af87bbcb22d92ef4fec.png" alt="Screenshot 2026-03-25 164151" loading="lazy" style="max-width:100%;height:auto;">
 ---
 
 ## 🎯 Key Concepts Used
